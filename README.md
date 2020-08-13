@@ -17,16 +17,18 @@ To Load the prokect
 │   ├── favicon.ico
 │   └── index.html
 └── src
+    └── components
+     ├── Search.js # Component For searching
+     ├── BooksAPI.js # Myreads Dashboard
+     ├── BookShelf.js # BookShelf component for each shelf listed on the app
+     ├── Book.js # Book component containing book name, image, authors and select options
+     ├── Authors.js # list of authors on the book
+     ├── SelectOptions.js # Contains the options you can do in the app
+    └──── book-api
+     ├── BooksAPI.js # A JavaScript API for the provided Udacity backend.
     ├── App.css # Styles for the app
-    ├── App.js # This is the root of your app.
+    ├── App.js # This is the root of the app.
     ├── App.test.js # Used for testing.
-    ├── BooksAPI.js # A JavaScript API for the provided Udacity backend.
-    ├── Search.js # Component For searching
-    ├── BooksAPI.js # Myreads Dashboard
-    ├── BookShelf.js # BookShelf component for each shelf listed on the app
-    ├── Book.js # Book component containing book name, image, authors and select options
-    ├── Authors.js # list of authors on the book
-    ├── SelectOptions.js # Contains the options you can do in the app
     ├── icons #  images for the  app.
     │   ├── add.svg
     │   ├── arrow-back.svg
