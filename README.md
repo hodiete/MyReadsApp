@@ -1,8 +1,11 @@
 # MyReads Project
 
-MyReads is a book tracking application that has a dashboard that has containing book shelves that has a list of items labelled 'Currently Reading','want to read' and 'read'. When you click on the '+' sign button you will be brought to the /search page where you can then search for new books to add to your dashboard
+MyReads is a book tracking application consisting of a dashboard and a search page. Within the dashboard are books under each category labelled 'Currently reading', 'Want to Read' and 'Read'. You can move a book from one section to the other by clicking the dropdown next to a book and choosing where to move the book to and it will update accordingly
+note: if you move the book to none, it won't be on any of the shelves.
 
-To Load the prokect
+You can select new books by clicking the icon located on the far right down section and it will bring you to the /search page. There you can search for new books to add to your dashboard.
+
+To Load the project
 
 - install all project dependencies with `npm install`
 - start the development server with `npm start`
@@ -36,3 +39,7 @@ To Load the prokect
     ├── index.css # Global styles.
     └── index.js
 ```
+
+### About
+
+Project was done as part of the requirements to passing the react nanodegree program. Code was forked from the reactnd-project-myreads-starter code and worked on. This project showcases my knowlegde and understanding of react.
