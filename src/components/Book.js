@@ -1,7 +1,6 @@
 import React from "react";
-import "./App.css";
 import Authors from "./Authors";
-import SelectOptions from "./SelectOptions";
+import SelectOptions from "../SelectOptions";
 import PropTypes from "prop-types";
 
 /**

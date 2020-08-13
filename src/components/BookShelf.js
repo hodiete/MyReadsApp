@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import Book from "./Book";
 import PropTypes from "prop-types";
 

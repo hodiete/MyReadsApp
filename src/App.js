@@ -1,14 +1,15 @@
 import React from "react";
 import "./App.css";
 import { Route } from "react-router-dom";
-import Search from "./Search";
-import Dashboard from "./Dashboard";
+import Search from "./components/Search";
 import * as BooksAPI from "./BooksAPI";
 import PropTypes from "prop-types";
+import Dashboard from "./components/Dashboard";
 
 /**
  * @description BooksApp which renders the Dashboard or Search page depending on the route
  */
+
 class BooksApp extends React.Component {
  static propTypes = {
   books: PropTypes.array,
