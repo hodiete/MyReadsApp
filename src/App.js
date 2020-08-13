@@ -43,7 +43,7 @@ class BooksApp extends React.Component {
   * @param {object} oldBook - A book object
   */
  removeFromShelf = (books, oldBook) => {
-  return books.filter((book) => book !== oldBook);
+  return books.filter((book) => book.title !== oldBook.title);
  };
 
  /**
@@ -111,7 +111,7 @@ class BooksApp extends React.Component {
   this.getAllBooks();
  };
  render() {
-  const { error, loaded, books, results } = this.state;
+  const { error, loaded, books } = this.state;
   //creating an array that list the books and shelves
   const ListOfBooksAndShelves = [
    {
@@ -147,7 +147,6 @@ class BooksApp extends React.Component {
       <Search
        updateBookShelf={this.updateBookShelf}
        getBookStatus={this.getBookStatus}
-       results={results}
       />
      )}
     />
