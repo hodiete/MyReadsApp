@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import PropTypes from "prop-types";
 /**
  * @description A select component that has a select tag and a list of options available
