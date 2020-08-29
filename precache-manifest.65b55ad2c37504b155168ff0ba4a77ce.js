@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/MyReadsApp/static/js/runtime~main.42f333e3.js"
   },
   {
-    "revision": "ca02372d665610e2680b",
-    "url": "/MyReadsApp/static/js/main.ca02372d.chunk.js"
+    "revision": "94b45fd7c1b0867eb38c",
+    "url": "/MyReadsApp/static/js/main.94b45fd7.chunk.js"
   },
   {
     "revision": "e24fc0232193f157ff7c",
     "url": "/MyReadsApp/static/js/1.e24fc023.chunk.js"
   },
   {
-    "revision": "ca02372d665610e2680b",
+    "revision": "94b45fd7c1b0867eb38c",
     "url": "/MyReadsApp/static/css/main.a904cce2.chunk.css"
   },
   {
-    "revision": "d74973da663a4c6162e04cfdffeb9099",
+    "revision": "50386d53c38616a2384acab42eb77d72",
     "url": "/MyReadsApp/index.html"
   }
 ];
