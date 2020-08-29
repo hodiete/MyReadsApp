@@ -1,4 +1,5 @@
 # MyReads Project
+visit https://hodiete21.github.io/MyReadsApp/ to see the project
 
 MyReads is a book tracking application consisting of a dashboard and a search page. Within the dashboard are books under each category labelled 'Currently reading', 'Want to Read' and 'Read'. You can move a book from one section to the other by clicking the dropdown next to a book and choosing where to move the book to and it will update accordingly
 note: if you move the book to none, it won't be on any of the shelves.
