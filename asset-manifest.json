@@ -1,14 +1,14 @@
 {
   "main.css": "/MyReadsApp/static/css/main.a904cce2.chunk.css",
-  "main.js": "/MyReadsApp/static/js/main.94b45fd7.chunk.js",
-  "main.js.map": "/MyReadsApp/static/js/main.94b45fd7.chunk.js.map",
+  "main.js": "/MyReadsApp/static/js/main.133410cf.chunk.js",
+  "main.js.map": "/MyReadsApp/static/js/main.133410cf.chunk.js.map",
   "static/js/1.e24fc023.chunk.js": "/MyReadsApp/static/js/1.e24fc023.chunk.js",
   "static/js/1.e24fc023.chunk.js.map": "/MyReadsApp/static/js/1.e24fc023.chunk.js.map",
   "runtime~main.js": "/MyReadsApp/static/js/runtime~main.42f333e3.js",
   "runtime~main.js.map": "/MyReadsApp/static/js/runtime~main.42f333e3.js.map",
   "static/css/main.a904cce2.chunk.css.map": "/MyReadsApp/static/css/main.a904cce2.chunk.css.map",
-  "static/media/App.css": "/MyReadsApp/static/media/arrow-drop-down.78c6f53b.svg",
+  "static/media/App.css": "/MyReadsApp/static/media/arrow-back.3687aa98.svg",
   "index.html": "/MyReadsApp/index.html",
-  "precache-manifest.65b55ad2c37504b155168ff0ba4a77ce.js": "/MyReadsApp/precache-manifest.65b55ad2c37504b155168ff0ba4a77ce.js",
+  "precache-manifest.35d67d20e293ec414c65051f1f492d55.js": "/MyReadsApp/precache-manifest.35d67d20e293ec414c65051f1f492d55.js",
   "service-worker.js": "/MyReadsApp/service-worker.js"
 }
