@@ -1,10 +1,10 @@
 import React from "react";
-import "./App.css";
+import "../App.css";
 import { Route } from "react-router-dom";
-import Search from "./components/Search";
-import * as BooksAPI from "./books-api/BooksAPI";
+import Search from "../components/Search";
+import * as BooksAPI from "../books-api/BooksAPI";
 import PropTypes from "prop-types";
-import Dashboard from "./components/Dashboard";
+import Dashboard from "../components/Dashboard";
 
 /**
  * @description BooksApp which renders the Dashboard or Search page depending on the route
